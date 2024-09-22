@@ -1,0 +1,125 @@
+*{
+    margin: 0px;
+    font-family: "inter";
+}
+
+#menusuperior{
+    padding-top: 20px;
+    background: #303030;
+    color: white;
+
+}
+
+#titulomenusuperior{
+    margin-left: 30px;
+    margin-top: 100px;
+     
+}
+    
+#textomenusuperior{
+    margin-left: 30px;
+    padding-top: 10px;
+    margin-bottom: 60px;
+    font-size: 10px;
+    
+}
+
+#menuinformacional{
+    background: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+     
+}
+
+.textoinformacional{
+    width: 200px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+#textoemprendimento{
+    margin-left: 100px;
+  
+}
+
+#textoanosmercado{
+    margin-left: 100px;
+    
+
+}
+
+#textometrosconstruidos{
+    margin-left: 100px;
+    
+
+}
+#secaoimagem{
+    background-color: #FFFFFF;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    
+}
+#tituloimagem{
+    text-align: justify;
+    font-size: 25px;
+    margin-left: 60px;
+    margin-top: 175px;
+    
+
+}
+#textoimagem{
+    margin-left: 60px;
+    font-size: 15px;
+
+    
+    
+}
+#imagemsecaoimagem{
+    margin-top: 50px;
+    margin: 50px 25px 50px 100px;
+    width: 400px;
+    margin-bottom: 50px;
+    margin-left: 40px;
+    
+}
+#secaocadastro{
+    background-color: #303030;
+    text-align: center;
+}
+#titulocadastro{
+    color: #FFFFFF;
+    padding-top: 50px;
+    padding-bottom: 11px;
+    font-size: 14px;
+}
+input{
+    Width: 215px;
+    Height: 28px;
+    font-family: "Raleway";
+    font-size: 9px;
+    margin: 11px;
+    border: 0px;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+
+}
+button{
+    background-color: #C07212;
+    color: #FFFFFF;
+    margin: 30px;
+    margin-bottom: 45px;
+    Width: 130px;
+    Height: 30px;
+    border: 0px;
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
+button:hover{
+    background-color: #d68a2d;
+    transform: translateY(-2px);
+    box-shadow: 0px 10px 15px #744c1b96;
+    transition-duration: 0.5s;
+}
